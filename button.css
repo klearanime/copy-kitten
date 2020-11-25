@@ -1,0 +1,18 @@
+#button {
+    background-color: #5c9cd4;
+    text-transform: capitalize;
+    color:white;
+    margin: 260px;
+    padding:17px 37px;
+    font-size: 30px;
+    box-shadow: 2px 5px #264764;
+    border-radius: 9px;
+    text-decoration: none;
+}
+
+#button:hover {
+    background-color: #4288ca;
+    box-shadow: none;
+}
+
+

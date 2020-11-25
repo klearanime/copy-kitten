@@ -1,0 +1,75 @@
+.row {
+    padding: 5px;
+    margin: 4px;
+}
+.row-1 {
+    margin-left: 10px;
+    color:#0E50E2;
+    border: 1px solid black;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+#cell-1 {
+    border-top-style: none;
+    border-left-style: none;
+    padding: 5px;
+}
+
+#cell-2 {
+    border-top-style: none;
+    padding: 5px;
+}
+
+#cell-3 {
+    border-top-style:none;
+    border-right-style: none;
+    padding: 5px;
+}
+
+.row-2 { 
+    color:#0E50E2;
+    border: 1px solid black;
+    text-decoration: underline;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+
+#cell-4 {
+    border-left-style: none;
+    padding: 5px;
+}
+
+#cell-5 {
+    padding: 5px;
+}
+
+#cell-6 {
+    border-right-style: none;
+    padding:5px;
+}
+
+#cell-7 {
+    border-left-style: none;
+    border-bottom-style: none;
+}
+
+#cell-8 {
+    border-bottom-style: none;
+}
+
+#cell-9 {
+    border-bottom-style: none;
+    border-right-style: none;
+}
+
+.row-3 { 
+    color:#0E50E2;
+    border: 1px solid black;
+    text-decoration: underline;
+    padding:5px;
+    margin-left:10px;
+    margin-top: 20px;
+}
